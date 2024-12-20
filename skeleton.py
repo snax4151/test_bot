@@ -1,6 +1,6 @@
 #https://habr.com/ru/articles/442800/
 #://rutube.ru/video/ed83aaedc8b3d893aea81f5382855b6a/
-#Тестовое добавление комита
+
 
 import telebot
 from telebot.types import BotCommand
